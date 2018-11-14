@@ -15,5 +15,8 @@
   ],
   "author": "kennedy wanjahi",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/wanjahi/simple-group-chat-app-vuejs-and-socket.io#readme"
+  "homepage": "https://bitbucket.org/wanjahi/simple-group-chat-app-vuejs-and-socket.io#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
