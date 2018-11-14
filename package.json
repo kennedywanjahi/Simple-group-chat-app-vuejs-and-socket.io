@@ -1,0 +1,19 @@
+{
+  "name": "simple-group-chat-app-vuejs-and-socket.io",
+  "version": "1.0.0",
+  "description": "(a simple group chat app made in vuejs and socket.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://wanjahi@bitbucket.org/wanjahi/simple-group-chat-app-vuejs-and-socket.io.git"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "kennedy wanjahi",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/wanjahi/simple-group-chat-app-vuejs-and-socket.io#readme"
+}
