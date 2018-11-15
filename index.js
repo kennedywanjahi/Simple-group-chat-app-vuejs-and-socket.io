@@ -12,7 +12,7 @@ io.on('connection', (socket) => {
       } )
 
       socket.on('Created',(data)=>{
-        io.emit('Created', (data))
+        socket.broadcast.emit('Created', (data))
       })
 
 })
