@@ -11,6 +11,10 @@ io.on('connection', (socket) => {
         console.log('user left');
       } )
 
+      socket.on('Created',(data)=>{
+        io.emit('Created', (data))
+      })
+
 })
 
 
